@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T11:56:41.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Jh3MbltJHjgJ5IYm3-2o" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T11:58:03.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="333cSMqn85PuZg14RCpd" version="21.5.1" type="github">
   <diagram name="Trang-1" id="tOcewXO_lovH6hkRrunn">
     <mxGraphModel dx="1434" dy="774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="5000" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="329" y="481" width="583" height="413" as="geometry" />
         </mxCell>
         <mxCell id="fvOnpMfjC2bjnOCLoL4K-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/education-and-school-glyph-24-px/24/Autobus_bus_school_bus_transport_vehicle_-128.png" vertex="1" parent="1">
-          <mxGeometry x="157" y="456" width="128" height="128" as="geometry" />
+          <mxGeometry x="163" y="453" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="fvOnpMfjC2bjnOCLoL4K-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/woothemes/PNG/intruder.png" vertex="1" parent="1">
           <mxGeometry x="348" y="661" width="65" height="65" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="529" y="579" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvOnpMfjC2bjnOCLoL4K-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeWidth=0;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="524" y="843" width="120" height="60" as="geometry" />
+          <mxGeometry x="524" y="843" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="fvOnpMfjC2bjnOCLoL4K-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvOnpMfjC2bjnOCLoL4K-5" target="fvOnpMfjC2bjnOCLoL4K-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -86,7 +86,7 @@
           <mxGeometry x="354" y="730" width="53" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvOnpMfjC2bjnOCLoL4K-37" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Car&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="194.5" y="566" width="53" height="30" as="geometry" />
+          <mxGeometry x="200.5" y="562" width="53" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvOnpMfjC2bjnOCLoL4K-38" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="814" y="631" width="64" height="83.5" as="geometry" />
